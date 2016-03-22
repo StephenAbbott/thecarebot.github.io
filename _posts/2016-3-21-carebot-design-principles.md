@@ -13,7 +13,7 @@ After interviewing journalists, editors, producers, developers and designers at 
 
 ### Design principles
 
-Designers employ a variety methods to retain the focus on the problems users need addressed during the life of a project: personas, need matrices, user stories, journey maps, etc. 
+Designers employ a variety of methods to retain the focus on the problems users need addressed during the life of a project: personas, need matrices, user stories, journey maps, etc. 
 
 Each approach has stengths and weaknesses depending on its use and circumstances of use; I am a fan of **design principles** for projects where the problem space is abstract and I know little about it at first, and also when people may be coming in and out of the project and need to quickly get up to speed on what's really important to users.
 
